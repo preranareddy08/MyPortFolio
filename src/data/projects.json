@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Hotel Booking Website",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an intuitive hotel booking website with real-time availability, secure booking features, and advanced search options.",
+    "skills": ["React", "Express", "Node","CSS", "REST API Calls"],
+    "demo": "https://drive.google.com/file/d/1T5Kq1r9Zx417wrSPVcq2G9vvHxthWE_B/view?usp=sharing",
+    "source": "https://github.com/preranareddy08/HotelBookingWebSiteMini-project"
+  },
+  {
+    "title": "Food Ordering App",
+    "imageSrc": "projects/project.png",
+    "description": "This application leverages live Swiggy APIs to provide real-time data on a wide range of restaurants, menus, and food items.",
+    "skills": ["React", "Tailwind CSS", "REST API Calls"],
+    "demo": "https://drive.google.com/file/d/1SUAHk97ZjbBOfzRjkA4kFCoGmmjs2pkV/view?usp=sharing",
+    "source": "https://github.com/preranareddy08/FoodOrderingApp"
+  },
+  {
+    "title": "ToDosWeb App",
+    "imageSrc": "projects/project.png",
+    "description": "Dynamic Web App for creating task-list for a day.Includes adding,deleting and checking task.",
+    "skills": ["Html", "CSS", "Bootstrap","Javascript"],
+    "demo": "https://drive.google.com/file/d/1mG0jiWj1A4NWV5cSVQoxsBRstM8OdbY1/view?usp=sharing",
+    "source": "https://github.com/preranareddy08/ToDosWebApp"
+  },
+  {
+    "title": "WeatherForecast Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "The application features a sleek, modern design with a user-friendly interface, enabling users to search for and view weather conditions in various cities.",
+    "skills": ["Html", "CSS", "Javascript", "REST API Calls"],
+    "demo": "https://drive.google.com/file/d/1-7cUk2LgOHMd7Kub0D3CPrjuQ5FDv5GR/view?usp=sharing",
+    "source": "https://github.com/preranareddy08/WeatherForecastDashboard"
+  },
+  {
+    "title": "Multi-Step Form",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a dynamic Multi-Step Form Application using React.js, designed to streamline user data collection through a sequential and user-friendly interface.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://drive.google.com/file/d/12ETbe0dmvLhJuEDoWK3tj65LQq3qJcIJ/view?usp=sharing",
+    "source": "https://github.com/preranareddy08/ReactJsMultiFormAeonaxy"
+  }
+]

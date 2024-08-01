@@ -1,0 +1,29 @@
+[
+  {
+    "role": "FrontEnd Developer",
+    "organisation": "Techplement",
+    "startDate": "1st May, 2024",
+    "endDate": "30th May,2024",
+    "experiences": ["Worked on Quiz Generator App"],
+    "imageSrc": "history/techplement.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Teachnook",
+    "startDate": "1st May, 2024",
+    "endDate": "30th June, 2024",
+    "experiences": ["Designed a website for RHYNO EV"],
+    "imageSrc": "history/teachnook.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "CodTech IT Solutions",
+    "startDate": "Feb, 2024",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Worked on To-DO-List app and weather forecast app"
+     
+    ],
+    "imageSrc": "history/codtech.png"
+  }
+]
